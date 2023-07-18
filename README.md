@@ -1,6 +1,6 @@
 Springboot Project CRUD API
 
-Date: 18/07/2023
+Date: 18/07/2023. Time wasted: 2 days
 
 - Lần đầu tiên thử Spring Boot + Code Editor Intellij CE. Mọi thứ ban đầu rất khó khăn nhưng cũng vượt qua
 ## Dự án có gì?
