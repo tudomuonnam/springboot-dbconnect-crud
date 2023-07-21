@@ -1,7 +1,8 @@
 Springboot Project CRUD API
-
-Date: 18/07/2023. Time wasted: 2 days
-
+## Log
+- Date: 18/07/2023. Time wasted: 2 days
+- Thử jwt cho dự án. Tham khảo từ [codegym (Đà Nẵng)](https://github.com/codegymdanang/CGDN-SpringBoot-JWT-MySql)
+## Mô tả
 - Lần đầu tiên thử Spring Boot + Code Editor Intellij CE. Mọi thứ ban đầu rất khó khăn nhưng cũng vượt qua
 ## Dự án có gì?
 - Kết nối Spring boot với postgres Sử dụng `PostgreSQL Driver` và `Spring Data JPA`
